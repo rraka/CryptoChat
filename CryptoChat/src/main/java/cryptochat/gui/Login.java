@@ -22,6 +22,7 @@ public class Login extends javax.swing.JFrame {
         this.setLocationRelativeTo(null);
         neuspjesnoLogovanjeLabel.setText("");
         neuspjesnoLogovanjeLabel.setForeground(Color.red);
+        //komentar test git
     }
 
     /**
